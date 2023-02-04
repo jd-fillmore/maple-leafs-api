@@ -1,5 +1,17 @@
-<h1>Maple Leafs Stats</h1>
+<img src="https://i.imgur.com/TSPtxeG.jpg" alt="maple leafs header"/>
 
-A web app displaying player stats. Built with React, React Hooks, Styled Components, JavaScript and Axios consuming a REST API.
+<h1>Maple Leafs Stats (Learning Project)</h1>
 
-Direct demo: https://leafs.netlify.app/
+<h3>Purpose</h3>
+
+To gain increased familiarity with React hooks, styled components and data retrieval with Axios.
+
+<h3>Tech Used</h3>
+
+React, React Hooks, Styled Components, JavaScript and Axios consuming a REST API.
+
+<h3>Demo</h3>
+
+https://leafs.netlify.app/
+
+<img src="https://i.imgur.com/YrH2F7u.png" alt="maple leafs overview"/>
